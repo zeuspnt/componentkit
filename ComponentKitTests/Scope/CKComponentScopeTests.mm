@@ -19,6 +19,8 @@
 #import "CKThreadLocalComponentScope.h"
 
 @interface CKComponentScopeTests : XCTestCase
+
+
 @end
 
 @implementation CKComponentScopeTests
